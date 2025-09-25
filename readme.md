@@ -4,12 +4,13 @@
 In this portfolio analysis, I examined retail sales and operations data from the perspective of a Business Analyst supporting the Sales Operations and Marketing teams' strategic planning for market expansion, customer segment optimization, and supply chain efficiency improvements across a national retail network.
 
 ## Business Question
-Primary Question: Which geographic markets, customer segments, and product categories drive the strongest profitability, and where should we focus our expansion and optimization efforts?
+Primary Question: 
+- Which geographic markets, customer segments, and product categories drive the strongest profitability, and where should we focus our expansion and optimization efforts?
 
 Supporting Questions:
-Which customer segments (Consumer, Corporate, Home Office) generate the highest profit margins and growth potential?
-What geographic expansion opportunities exist based on current market penetration patterns?
-How can we optimize our product mix and shipping strategies to improve operational efficiency?
+- Which customer segments (Consumer, Corporate, Home Office) generate the highest profit margins and growth potential?
+- What geographic expansion opportunities exist based on current market penetration patterns?
+- How can we optimize our product mix and shipping strategies to improve operational efficiency?
 
 ![Store_Dashboard](Store_Dashboard.png)
 
@@ -54,41 +55,41 @@ Technology category leads revenue generation while Office Supplies shows highest
 
 Key Visualizations Created:
 
-Executive KPI summary showing $2.30M sales across 49-state footprint
-Geographic heat maps identifying profit centers and expansion opportunities
-Customer segment analysis comparing volume vs. profitability patterns
-Product category performance matrix showing revenue and quantity distributions
-Operational efficiency metrics including shipping mode optimization insights
+- Executive KPI summary showing $2.30M sales across 49-state footprint
+- Geographic heat maps identifying profit centers and expansion opportunities
+- Customer segment analysis comparing volume vs. profitability patterns
+- Product category performance matrix showing revenue and quantity distributions
+- Operational efficiency metrics including shipping mode optimization insights
 
 ## Dashboard Design Principles Applied:
 
-Executive Overview: Critical business metrics accessible at a glance
-Geographic Intelligence: Map-based analysis for territory planning
-Segmentation Focus: Customer and product performance comparisons for strategic decision-making
+- Executive Overview: Critical business metrics accessible at a glance
+- Geographic Intelligence: Map-based analysis for territory planning
+- Segmentation Focus: Customer and product performance comparisons for strategic decision-making
 
 ## Methodology
 
-Analysis Scope: National retail operations across 49 states and 4 regions
-Data Period: Comprehensive sales transaction analysis covering multiple product categories and customer segments
-Key Dimensions: Geographic performance, customer segmentation, product categories, shipping modes, discount impact
+- Analysis Scope: National retail operations across 49 states and 4 regions
+- Data Period: Comprehensive sales transaction analysis covering multiple product categories and customer segments
+- Key Dimensions: Geographic performance, customer segmentation, product categories, shipping modes, discount impact
 
 ## Tools & Approach
 
-Power BI: Interactive dashboard development with advanced geographic and segment analysis
-Data Modeling: Multi-dimensional analysis combining sales, geographic, and operational data
-Business Intelligence: KPI framework development for retail performance monitoring
+- Power BI: Interactive dashboard development with advanced geographic and segment analysis
+- Data Modeling: Multi-dimensional analysis combining sales, geographic, and operational data
+- Business Intelligence: KPI framework development for retail performance monitoring
 
 ## trategic Impact & Next Steps
 
 This analysis provides the foundation for retail expansion strategy and identifies four critical optimization areas:
 
-Corporate segment expansion to improve overall profit margins
-Geographic market entry targeting high-potential underserved regions
-Product portfolio optimization leveraging category-specific strengths
-Operational efficiency through segment-based shipping strategy enhancement
+- Corporate segment expansion to improve overall profit margins
+- Geographic market entry targeting high-potential underserved regions
+- Product portfolio optimization leveraging category-specific strengths
+- Operational efficiency through segment-based shipping strategy enhancement
 
 ## Recommended Follow-up Analysis:
 
-Customer lifetime value modeling by segment for retention strategy development
-Competitive market analysis for geographic expansion planning
-Supply chain optimization study for shipping cost reduction initiatives
+- Customer lifetime value modeling by segment for retention strategy development
+- Competitive market analysis for geographic expansion planning
+- Supply chain optimization study for shipping cost reduction initiatives
