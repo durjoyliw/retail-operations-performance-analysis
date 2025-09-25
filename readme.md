@@ -11,6 +11,8 @@ Which customer segments (Consumer, Corporate, Home Office) generate the highest 
 What geographic expansion opportunities exist based on current market penetration patterns?
 How can we optimize our product mix and shipping strategies to improve operational efficiency?
 
+![Store_Dashboard](Store_Dashboard.png)
+
 ## Key Business Metrics Analyzed
 
 Revenue Performance: $2.30M total sales across 49 states and 4 regions with 12K units sold
