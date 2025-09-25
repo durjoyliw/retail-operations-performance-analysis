@@ -31,9 +31,9 @@ Technology category leads revenue generation while Office Supplies shows highest
 
 ## Key Business Insights
 1. Customer Segment Optimization Reveals Corporate Growth Opportunity
--Finding: Consumer segment drives 60% of volume (19K+ units) but Corporate segment shows 25% higher profit margins with lower acquisition costs
--Business Impact: Reallocating marketing spend toward Corporate customers could improve overall profitability by 15-20%
--Recommendation: Work with Sales team to develop Corporate-specific value propositions and expand B2B sales channels while maintaining Consumer base
+- Finding: Consumer segment drives 60% of volume (19K+ units) but Corporate segment shows 25% higher profit margins with lower acquisition costs
+- Business Impact: Reallocating marketing spend toward Corporate customers could improve overall profitability by 15-20%
+- Recommendation: Work with Sales team to develop Corporate-specific value propositions and expand B2B sales channels while maintaining Consumer base
 
 2. Geographic Market Penetration Shows Strategic Expansion Targets
 -Finding: Profit concentration in specific metropolitan areas while 15+ states show minimal penetration despite demographic similarity to high-performing regions
