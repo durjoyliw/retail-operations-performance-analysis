@@ -5,8 +5,8 @@ In this portfolio analysis, I examined retail sales and operations data from the
 
 ## Business Question
 Primary Question: Which geographic markets, customer segments, and product categories drive the strongest profitability, and where should we focus our expansion and optimization efforts?
-Supporting Questions:
 
+Supporting Questions:
 Which customer segments (Consumer, Corporate, Home Office) generate the highest profit margins and growth potential?
 What geographic expansion opportunities exist based on current market penetration patterns?
 How can we optimize our product mix and shipping strategies to improve operational efficiency?
