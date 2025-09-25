@@ -16,11 +16,11 @@ Supporting Questions:
 
 ## Key Business Metrics Analyzed
 
-Revenue Performance: $2.30M total sales across 49 states and 4 regions with 12K units sold
-Customer Segmentation: Performance analysis across Consumer, Corporate, and Home Office segments
-Product Portfolio: Sales distribution across Technology, Office Supplies, and Furniture categories
-Geographic Performance: Profit analysis by city and sales penetration by country/region
-Operational Efficiency: Shipping mode performance and discount impact on profitability
+- Revenue Performance: $2.30M total sales across 49 states and 4 regions with 12K units sold
+- Customer Segmentation: Performance analysis across Consumer, Corporate, and Home Office segments
+- Product Portfolio: Sales distribution across Technology, Office Supplies, and Furniture categories
+- Geographic Performance: Profit analysis by city and sales penetration by country/region
+- Operational Efficiency: Shipping mode performance and discount impact on profitability
 
 Show Image
 
