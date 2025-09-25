@@ -22,7 +22,6 @@ Supporting Questions:
 - Geographic Performance: Profit analysis by city and sales penetration by country/region
 - Operational Efficiency: Shipping mode performance and discount impact on profitability
 
-Show Image
 
 ## Executive Summary
 
