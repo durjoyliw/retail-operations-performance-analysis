@@ -34,15 +34,18 @@ Technology category leads revenue generation while Office Supplies shows highest
 Finding: Consumer segment drives 60% of volume (19K+ units) but Corporate segment shows 25% higher profit margins with lower acquisition costs
 Business Impact: Reallocating marketing spend toward Corporate customers could improve overall profitability by 15-20%
 Recommendation: Work with Sales team to develop Corporate-specific value propositions and expand B2B sales channels while maintaining Consumer base
+
 2. Geographic Market Penetration Shows Strategic Expansion Targets
 Finding: Profit concentration in specific metropolitan areas while 15+ states show minimal penetration despite demographic similarity to high-performing regions
 Business Impact: Geographic expansion could unlock $500K+ annual revenue through targeted market entry in underserved regions
 Recommendation: Partner with Market Development team to conduct market entry analysis for top 5 underperforming states with similar customer demographics to current profit centers
-3. Product Category Performance Indicates Portfolio Rebalancing Needs
+
+4. Product Category Performance Indicates Portfolio Rebalancing Needs
 Finding: Technology category generates highest revenue per transaction while Office Supplies shows strongest volume consistency across all segments
 Business Impact: Product mix optimization could increase average order value by focusing on high-margin Technology sales while leveraging Office Supplies for customer acquisition
 Recommendation: Develop category-specific marketing strategies and consider Technology upselling programs for existing Office Supplies customers
-4. Shipping Strategy Optimization Impacts Customer Satisfaction and Costs
+
+5. Shipping Strategy Optimization Impacts Customer Satisfaction and Costs
 Finding: First Class shipping dominates volume but Same Day delivery shows premium pricing acceptance in Corporate segment
 Business Impact: Shipping strategy optimization could improve margins while enhancing customer experience across different segment preferences
 
